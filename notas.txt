@@ -1,0 +1,4 @@
+cabezote = header (vistas/modulos/header.php)
+cajas-superiores = dashboard-superior.php (vistas/modulos/inicio/dashboard-superior.php)
+usuario especial = usuario auxiliar
+
